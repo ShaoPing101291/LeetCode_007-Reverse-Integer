@@ -1,7 +1,7 @@
 
 # My LeetCode Practice
 
-Hi! This is where I save my LeetCode practice.
+Hi! This is where I save my LeetCode practice(Med.).
 
 
 I practice these problems to get better at thinking and coding.  
